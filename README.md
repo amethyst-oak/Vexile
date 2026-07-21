@@ -30,3 +30,14 @@
 4. Run the launcher via terminal or double-click:
    ```bash
    java -jar VexileLauncher.jar
+   ```
+### For Developers:
+1. Clone the repository:
+   ```bash
+   git clone amethyst-oak/Vexile
+   ```
+2. Open the folder and run build.sh
+   ```bash
+   sh build.sh (if doesn't work, do chmod +x build.sh first)
+   ```
+3. Get the .jar in the dist folder.
