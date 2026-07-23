@@ -3,7 +3,7 @@
 > *"that shit is not light weight that shit is a feather"* — **Catto**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0-blue?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/version-1.2-blue?style=flat-square" alt="Version">
   <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/platform-Java%208%2B-orange?style=flat-square" alt="Platform">
 </p>
